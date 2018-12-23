@@ -1,4 +1,8 @@
 /*
+Data:
+23:59 2018/12/23
+By:
+Cvdqqj
 
 Software:
 Dev-Cpp 5.11 TDM-GCC x64 4.9.2 Portable
@@ -40,7 +44,6 @@ void helloworld(int i)
 	}		
 }
 
-
 int input_int(void)
 {
 	int x=0;
@@ -75,6 +78,4 @@ int main(void)
 //	printf("Hello world\n");
 	return 0;
 }
-
-
 
